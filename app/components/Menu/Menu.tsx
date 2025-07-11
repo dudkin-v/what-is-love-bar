@@ -120,6 +120,11 @@ const Menu = () => {
                                     portion: '150ml',
                                     note: 'Chilled elegance in a glass',
                                 },
+                                {
+                                    title: 'Corona Extra',
+                                    portion: '330ml',
+                                    note: 'Light, crisp, perfect with lime',
+                                },
                             ]}
                         />
                     </div>
